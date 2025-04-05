@@ -5,32 +5,32 @@
   
 <!--Trees-->
   <project path="device/motorola/odessa"
-           name="android_device_motorola_odessa"
+           name="android_device_motorola_odessa-13"
            remote="Thiago"
-           revision="crdroid15" />
+           revision="thirteen" />
            
   <project path="device/motorola/sm6150-common"
-           name="android_device_motorola_sm6150-common-cr"
+           name="android_device_motorola_sm6150-common-13"
            remote="Thiago"
-           revision="15a" />
+           revision="thirteen" />
            
   <project path="kernel/motorola/sm6150"
-           name="kernel_motorola_liber"
+           name="android_kernel_motorola_sm6150-13"
            remote="Thiago"
-           revision="test15" />
+           revision="lineage-20.0" />
 
   <project path="hardware/motorola"
            name="android_hardware_motorola"
            remote="LineageOS"
-           revision="lineage-22.0" />
+           revision="lineage-20" />
 
   <project path="system/qcom"
            name="android_system_qcom"
            remote="LineageOS"
-           revision="lineage-22.0" />
+           revision="lineage-20" />
 
   <project path="vendor/motorola"
-           name="proprietary_vendor_motorola"
+           name="proprietary_vendor_motorola-13"
            remote="Thiago"
-           revision="qpr3" />  
+           revision="lineage-20.0" />  
 </manifest>
